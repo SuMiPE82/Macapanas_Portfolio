@@ -1,0 +1,33 @@
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #2b3a67;
+    text-decoration: underline black;
+    text-shadow: 3px 3px 4px red;
+}
+
+img {
+    padding: 15px 15px 15px 15px;
+    margin: 20px auto;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+}
+    
+div {
+    width: 350px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 4px dashed rgb(48, 48, 90);
+    border-radius: 15px;
+    text-align: center;
+    background-color: #f5f7fa;
+    text-align: center;
+}
+
+.nav {
+    text-decoration: none;
+    text-align: center;
+    padding-right: 30px;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
